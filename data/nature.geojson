@@ -1,0 +1,196 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+
+{ "type": "Feature", "id": 0, "properties": 
+	{ 
+		"NAME"     : "Deepwater horizon oil spill", 
+		"DESC"     : "Or BP OIl spill, began on 20.04.2010 and lasted throughout 19.09.2010. 11 people died due to the accident and another 17 were injured. A total of 4.9 million barrels spilled during that time into the Gulf of Mexico.", 
+		"ADDRESS"  : "Gulf of Mexico",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "",
+		"NONEWORDS": "",
+		"HASHTAGS" : "BP, OilSpill, Deepwater, GulfofMexico",
+		"LANG"     : "",
+		"PLACES"   : "Gulf of Mexico",
+		"FROM"     : "",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ -88.36583333, 28.73813889 ] } 
+},
+{ "type": "Feature", "id": 1, "properties": 
+	{ 
+		"NAME"     : "Shell Oil Spill 2016", 
+		"DESC"     : "Shell spills 2.100 barrels in the gulf of Mexico. There were no casualties. ", 
+		"ADDRESS"  : "Gulf of Mexico",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Shell, OilSpill, GulfofMexico",
+		"LANG"     : "",
+		"PLACES"   : "Gulf of Mexico",
+		"FROM"     : "",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ -89.890137,  25.681137 ] } 
+},
+{ "type": "Feature", "id": 2, "properties": 
+	{ 
+		"NAME"     : "Sierra Leone Mudslide", 
+		"DESC"     : "After days of rainfall and floods, mudslides occurred close and in Freetown, Sierra Leone. They resulted in the estimated death count varies between 500 and 1000, 810 missing and more than 3000 left homeless", 
+		"ADDRESS"  : "Freetown, Sierra Leone",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "",
+		"NONEWORDS": "",
+		"HASHTAGS" : "SierraLeone, Mudslide, Freetown",
+		"LANG"     : "null",
+		"PLACES"   : "",
+		"FROM"     : "",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ -13.22277, 8.433889 ] } 
+},
+{ "type": "Feature", "id": 3, "properties": 
+	{ 
+		"NAME"     : "Haiti Earthquake", 
+		"DESC"     : "Estimated death count between 100,000 and 300,000 varying on the source. The infrastructure suffered a great damage, and many  people were left injured and/or homeless. ", 
+		"ADDRESS"  : "Port-au-Prince, Jacmel, Haiti",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Haiti",
+		"LANG"     : "",
+		"PLACES"   : "",
+		"FROM"     : "",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ -72.533,  18.457 ] } 
+},
+{ "type": "Feature", "id": 4, "properties": 
+	{ 
+		"NAME"     : "Hurricane Harvey", 
+		"DESC"     : "The hurricane Formed on 17.08.2017 and Dissipated on 3.09.2017. There were 83 confirmed deaths, primarily in the Unted States. The Hurricane affected parts of the Carribian, Latin America and the United States. While it left the strongest impact over Texas and Louisiana.", 
+		"ADDRESS"  : "Carribian, Latin America, Texas, Louisiana",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Harvey, Hurricane, Houston, Texas, Louisiana, Pray",
+		"LANG"     : "",
+		"PLACES"   : "Carribian, Latin America, Texas, Louisiana",
+		"FROM"     : "17.08.2017",
+		"TO"       : "03.09.2017"
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ -95.36327, 29.76328 ] } 
+},
+{ "type": "Feature", "id": 5, "properties": 
+	{ 
+		"NAME"     : "Tohoku Earthquake and tsunami ", 
+		"DESC"     : "2011 - The Tohoku Earthquake triggered a powerful Tsunami, with heights up to 40.5m which resulted in the deaths of about 15.000, leaving thousands injured and missing.According to local official more that 300 000 buildings were severely damaged and-or completely destroyed ", 
+		"ADDRESS"  : "East Japan",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Earthquake, Tsunami, Japan",
+		"LANG"     : "",
+		"PLACES"   : "Sendai; Miyagi; Iwate; East Japan",
+		"FROM"     : "",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 142.369000, 38.322000 ] } 
+	},
+{ "type": "Feature", "id": 6, "properties": 
+	{ 
+		"NAME"     : "Nepal earthquake 2015 ", 
+		"DESC"     : "Earthquake in Nepal in Gorkha district, killed 9000 people; it also triggered avalanche on Mount Everest, which killed 21 person. Hundreds of thousands people were made homeless.", 
+		"ADDRESS"  : "",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Nepal, Grokha, Earthquake, Avalanche ",
+		"NONEWORDS": "",
+		"HASHTAGS" : "",
+		"LANG"     : "",
+		"PLACES"   : "",
+		"FROM"     : "25.04.2015",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 84.731, 28.23 ] } 
+	},
+
+	{ "type": "Feature", "id": 7, "properties": 
+	{ 
+		"NAME"     : "Ecuador Earthquake 2016", 
+		"DESC"     : "Earthquake in Ecuador of Mw 7.8 close to towns Muisine and Pedernales, Manta's shopping centre was completely destroyed, 676 persons were killed ", 
+		"ADDRESS"  : "",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Ecuador, Earthquake,2016",
+		"NONEWORDS": "",
+		"HASHTAGS" : "",
+		"LANG"     : "",
+		"PLACES"   : "",
+		"FROM"     : "16.04.2016",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ -79.94 , 0.371 ] } 
+},
+
+{ "type": "Feature", "id": 8, "properties": 
+	{ 
+		"NAME"     : "Central Italy earthquake August 2016", 
+		"DESC"     : "Earthquake in Central Italy close to town Amatrice ,killing 299 people and causing massive destructions.", 
+		"ADDRESS"  : "",
+		"ALLWORDS" : " Italy, Earthquake, 2016",
+		"PHRASE"   : "",
+		"ANYWORDS" : "",
+		"NONEWORDS": "",
+		"HASHTAGS" : "",
+		"LANG"     : "",
+		"PLACES"   : "Lazio, Umbria, Marche",
+		"FROM"     : "24.08.2016",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 42.706, 13.223 ] } 
+},	
+{ "type": "Feature", "id": 9, "properties": 
+	{ 
+		"NAME"     : "Mount Polley mine disaster 2014", 
+		"DESC"     : "Tailing pond dam breach causing release of 10 million cubic meter and 4.5 million cubic metres into Polley Lake and into Quesnel Lake, the cleanest deep water lake in the world", 
+		"ADDRESS"  : "",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Mount, Polley, mine, Lake",
+		"NONEWORDS": "",
+		"HASHTAGS" : "",
+		"LANG"     : "",
+		"PLACES"   : "",
+		"FROM"     : "04.08.2014",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ -121.596, 52.513 ] } 
+},
+{ "type": "Feature", "id": 10, "properties": 
+	{ 
+		"NAME"     : "Savar building collapse 2013", 
+		"DESC"     : "Eight-story commercial building Rana Plaza (Dakha District, Bangladesh) collapsed due to structural failure, killing 1134 people. After discovering cracks in the building some of the shops were closed, but the textile factory continued working and the failure of building happened on the next day in the morning", 
+		"ADDRESS"  : " Rana Plaza Dakha District, Bangladesh",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Savar, Bagladesh, Building, Collapse",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Savar, Bagladesh, Building, Collaps",
+		"LANG"     : "",
+		"PLACES"   : "",
+		"FROM"     : "24.04.2013",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [  90.257, 23.846 ] } 
+}
+]
+}

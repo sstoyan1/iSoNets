@@ -1,0 +1,158 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": 
+	{ 
+		"NAME"     : "The 2011 Norway attacks ", 
+		"DESC"     : "We are looking at the event happening in Utoya Island where 68 people were killed in a youth summer camp and injuring at least another 110. On the same day in Oslo a car bomb also exploded killing 8 people and injuring atleast 200.", 
+		"ADDRESS"  : "Utoya Island, Norway",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "camp, Utoya, Norway, attack",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Norway",
+		"LANG"     : "",
+		"PLACES"   : "Utoya Island, Oslo, Norway",
+		"FROM"     : "22.07.2011",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 10.74583333, 59.91500000 ] } 
+},
+{ "type": "Feature", "id": 1, "properties": 
+	{ 
+		"NAME"     : "Tikrit Suicide Attacks", 
+		"DESC"     : "In 3 consecutive days, a total of at least 137 deaths and more that 230 injuries, were the result of terrorist attacks in Tikrit, Baqubah and Karbala.", 
+		"ADDRESS"  : "Tikrit, Baqubah, Karbala, Iraq", 
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Tikrit, Baqubah, Karbala,Iraq, bombings, terror",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Terror, Iraq, Tikrit, Baqubah, Karbala",
+		"LANG"     : "",
+		"PLACES"   : "Tikrit; Baqubah; Karbala, Iraq",
+		"FROM"     : "18.01.2011",
+		"TO"       : "20.01.2011"
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 43.5983396, 34.614465 ] } 
+},
+{ "type": "Feature", "id": 2, "properties": 
+	{ 
+		"NAME"     : "Kabul July Bombing", 
+		"DESC"     : "Truck bomb exploding in a crowded intersection killing over 150 people and injuring 413. The bomb exploded in a intersection near to the German embassy. It is the deadliest terror attack to take place in Kabul.", 
+		"ADDRESS"  : "Kolula Pushta Rd, Kabol, Afghanistan", 
+		"ALLWORDS" : "",
+		"PHRASE"   : "German embassy",
+		"ANYWORDS" : "",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Terror, Kabul, Iraq, Pray, 2017",
+		"LANG"     : "",
+		"PLACES"   : "Kabul, Iraq",
+		"FROM"     : "31.07.2017",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 69.163298, 34.532664] } 
+},
+{ "type": "Feature", "id": 3, "properties": 
+	{ 
+		"NAME"     : "Barcelona Terror Attack", 
+		"DESC"     : "Van ran into pedestrians in La Rambla, in the centre of Barcelona. The truck resultet in the death of 15 people and injured at least 130.", 
+		"ADDRESS"  : "Las Ramblas, Barcelona, Spain", 
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Barcelona Terror, Prayforbarcelona",
+		"LANG"     : "",
+		"PLACES"   : "Barcelona, Catalonia, Spain",
+		"FROM"     : "22.08.2017",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 2.1726751, 41.3806103 ] } 
+}, 
+{ "type": "Feature", "id": 4, "properties": 
+	{ 
+		"NAME"     : "Berlin terror Attack", 
+		"DESC"     : "Van ran into pedestrians on a Christmas Market in Berlin, Germany", 
+		"ADDRESS"  : "",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Berlin, Christmas Market, ISIS, Terror",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Berlin, 2016, Terror, IS, ISIS",
+		"LANG"     : "",
+		"PLACES"   : "",
+		"FROM"     : "09.12.2016",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 52.505, 13.335556 ] } 
+},
+{ "type": "Feature", "id": 5, "properties": 
+	{ 
+		"NAME"     : "Gamboru Ngala Attack", 
+		"DESC"     : "Boko Haram attacked the towns of Gamboru and Ngala in Borno State. Around 310 residents were killed", 
+		"ADDRESS"  : "Borno State",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Borno State, Gamboru, Ngala, Boko Haram",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Borno State, Gamboru, Ngala, Boko Haram, Terror",
+		"LANG"     : "",
+		"PLACES"   : "Borno State",
+		"FROM"     : "05.06.2014",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 12.375556, 14.203611 ] } 
+},
+{ "type": "Feature", "id": 6, "properties": 
+	{ 
+		"NAME"     : "Metrojet Flight 9268", 
+		"DESC"     : "Metrojet Flight 9268 was a passenger flight from Sharm El Sheikh International Airport to Pulkovo Airport in Saint Petersburg, Russia. ISIL claimed responsibility for the incident", 
+		"ADDRESS"  : "",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Metrojet, Pulkovo, ISIL",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Metrojet, Pulkovo, ISIL",
+		"LANG"     : "",
+		"PLACES"   : "",
+		"FROM"     : "31.10.2015",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ -90.06592, 25.30430 ] } 
+},
+{ "type": "Feature", "id": 7, "properties": 
+	{ 
+		"NAME"     : "Westgate shopping mall attack 2013, Nairobi, Kenya", 
+		"DESC"     : "Unidentified gunmen attacked Westgate shopping mall in Nairobi, Kenya. As result of attack and mass shooting 67 people were killed and 175 were reported wounded. Extremist Islamic terrorist group al-Shabaab claimed responsibility for the attack.",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Boko Haram, Westgate, Terror, Kenya",
+		"NONEWORDS": "",
+		"HASHTAGS" : "",
+		"LANG"     : "",
+		"PLACES"   : "Nairobi, Kenya",
+		"FROM"     : "21.09.2013",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ -1.256944, 36.803333 ] } 
+},
+{ "type": "Feature", "id": 8, "properties": 
+	{ 
+		"NAME"     : "2012 Sana'a bombing", 
+		"DESC"     : "Attack took place in near Yemen's presidential palace, while soldiers were preparing for a parade rehearsal for the upcoming Unity Day ceremonies. The bomber was a soldier participating in the drill wearing a belt of explosives that explode. The suicide bombing killed 90 persons and 222 were injured. Responsibility for the attack was claimed by the Al Qaeda in the Arabian Peninsula affiliate Ansar al-Sharia. ", 
+		"ADDRESS"  : "",
+		"ALLWORDS" : "",
+		"PHRASE"   : "",
+		"ANYWORDS" : "Sana'a, Bombing, Terror, Al Qaeda",
+		"NONEWORDS": "",
+		"HASHTAGS" : "Sana'a, Bombing, Terror, Al Qaeda",
+		"LANG"     : "",
+		"PLACES"   : "Sana'a",
+		"FROM"     : "",
+		"TO"       : ""
+	}, 
+	"geometry": { "type": "Point", "coordinates": [ 15.348, 44.206 ] } 
+}
+]
+}

@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Deepwater horizon oil spill 20.04-19.09.2010", "DESC": "(212) 514-3700", "URL": "http:\/\/www.oldnycustomhouse.gov\/", "ADRESS1": "Gulf of Mexico near Mississippi River Delta, United States", "ADDRESS2": null, "CITY": "New York", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -88.36583333, 28.73813889 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Shell oil spill 2016", "DESC": "(718) 816-4506", "URL": "http:\/\/www.aliceausten.org\/", "ADRESS1": "2 Hylan Blvd", "ADDRESS2": null, "CITY": "Staten Island", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [ -89.890137,  25.681137 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Haiti earthquake 2011", "DESC": "(212) 368-5900", "URL": "http:\/\/www.artsandletters.org\/", "ADRESS1": "633 W. 155th St.", "ADDRESS2": null, "CITY": "New York", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -72.533,  18.457 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Tohoku Earthquake and Tsunami 2011", "DESC": "(212) 368-5900", "URL": "http:\/\/www.artsandletters.org\/", "ADRESS1": "633 W. 155th St.", "ADDRESS2": null, "CITY": "New York", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ 142.369000, 38.322000 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Hurricane Harvey 2017", "DESC": "(212) 265-1040", "URL": "http:\/\/www.folkartmuseum.org\/", "ADRESS1": "45 West 53rd Street", "ADDRESS2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [  -95.36327, 29.76328 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "Sierra Leone Mudslide 2017", "DESC": "(212) 265-1040", "URL": "http:\/\/www.folkartmuseum.org\/", "ADRESS1": "45 West 53rd Street", "ADDRESS2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -13.22277, 8.433889 ] } }
+
+]
+}
